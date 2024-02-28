@@ -1,10 +1,13 @@
 {
     "data": {
+        "type": "STOP_LOSS",
+        "enabled": true,
         "amount": 1212121212,
         "price": 34343434,
         "rate": -0.0912,
-        "deltaPrice": 4,
-        "orderDeltaPrice": 3,
+        "delta": 4,
+        "orderDelta": 3,
+        "orderType": "DELTA_PRICE",
         "grossPnlAmount": 343434
     }
 }
