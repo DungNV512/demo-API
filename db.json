@@ -5,8 +5,8 @@
         "amount": 1212121212,
         "price": 34343434,
         "rate": -0.0912,
-        "delta": 4,
-        "orderDelta": 3,
+        "deltaPrice": 4,
+        "orderDeltaPrice": 3,
         "orderType": "DELTA_PRICE",
         "grossPnlAmount": 343434
     }
