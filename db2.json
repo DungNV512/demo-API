@@ -4,7 +4,7 @@
         "enabled": true,
         "amount": 1212121212,
         "price": 34343434,
-        "rate": -9.12,
+        "rate": -0.0912,
         "deltaPrice": 4,
         "orderDeltaPrice": 3,
         "orderType": "DELTA_PRICE",
